@@ -1,0 +1,58 @@
+.home {
+  background-image: url(Ticket-Andromo-AI-Design.webp);
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+  text-align: center;
+  color: #fff;
+  font-size: 4vh;
+  padding-top: 5vh;
+}
+
+form {
+  display: block;
+  margin-top: 0em;
+  unicode-bidi: isolate;
+}
+#T {
+  width: 20%;
+  height: 8%;
+  font-size: 25px;
+  background-color: white;
+  text-align: center;
+}
+#UserName {
+  width: 20%;
+  height: 8%;
+  font-size: 25px;
+  background-color: white;
+  text-align: center;
+}
+#Password {
+  width: 20%;
+  height: 8%;
+  font-size: 25px;
+  background-color: white;
+  text-align: center;
+}
+
+.site {
+  background-image: url(home-bg.70bc157e537190448e7c.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+  text-align: center;
+  color: #b4a4a6;
+  font-size: 4vh;
+  font-style: oblique;
+}
+
+.loginbtn {
+  padding: 11px 30px;
+  border: none;
+  margin-top: 30px;
+  background-color: rgba(25, 25, 26, 0.781);
+  color: rgb(230, 230, 230);
+  display: inline-block;
+  text-decoration: none;
+}
